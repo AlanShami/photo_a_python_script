@@ -2,6 +2,8 @@
 
 - A Python script that makes calls to different programs to process an image.
 
+- This is a school project.
+
 # Original (Default) image:
 
 ![](https://github.com/AlanShami/photo_a_python_script/blob/main/mickey-1.png)
