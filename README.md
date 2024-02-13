@@ -2,9 +2,12 @@
 
 - A Python script that makes calls to different programs to process an image.
 
+# Original (Default) image:
 
+![](https://github.com/AlanShami/photo_a_python_script/blob/main/mickey-1.png)
 
 <!-- Insert a gif  -->
+![](https://github.com/AlanShami/photo_a_python_script/blob/main/Assignment%205%20-%20demo.gif)
 
 
 ## What does it have?
