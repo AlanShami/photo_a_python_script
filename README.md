@@ -25,7 +25,9 @@ ___
 --
 
 ### All Program Files and Codes:
--
--
-- 
-- 
+- [wrappper.py](https://github.com/AlanShami/photo_a_python_script/blob/main/wrapper.py)
+- [matlab1.m](https://github.com/AlanShami/photo_a_python_script/blob/main/matlab1.m)
+- [matlab2.m](https://github.com/AlanShami/photo_a_python_script/blob/main/matlab2.m)
+- [c_program.c](https://github.com/AlanShami/photo_a_python_script/blob/main/c_program.c)
+- [haskell_program.hs](https://github.com/AlanShami/photo_a_python_script/blob/main/haskell_program.hs)
+- [prolog_program.pl](https://github.com/AlanShami/photo_a_python_script/blob/main/prolog_program.pl)
